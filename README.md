@@ -50,6 +50,10 @@ libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python-tk
 $ sudo pip install pillow
 ~~~
 
+## 如何操作
+
+运行代码生成所需字符画
+
 ## 结果
 
 在根目录下生成一个文本文档，即字符画生成文件。
